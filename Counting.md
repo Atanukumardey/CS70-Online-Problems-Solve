@@ -12,4 +12,12 @@
 ![](http://practice.eecs70.org/sets/set8/35.png) ans: 5040
 ![](http://practice.eecs70.org/sets/set8/38.png) ans: 2520
 ![](http://practice.eecs70.org/sets/set8/41.png) ans: 105
+![](http://practice.eecs70.org/sets/set8/44.png) ans: 40320
+![](http://practice.eecs70.org/sets/set8/45.png) ans: 24
+![](http://practice.eecs70.org/sets/set8/46.png) ans: 5040
+![](http://practice.eecs70.org/sets/set8/47.png) ans: 6
+![](http://practice.eecs70.org/sets/set8/48.png) ans: 336
+![](http://practice.eecs70.org/sets/set8/49.png) ans: 210
+![](http://practice.eecs70.org/sets/set8/50.png) ans: 286
+![](http://practice.eecs70.org/sets/set8/51.png) ans: 252
 ![](http://practice.eecs70.org/sets/set8/53.png) ans: [36](https://qr.ae/pGZdOW)
