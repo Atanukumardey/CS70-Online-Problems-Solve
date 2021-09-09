@@ -5,3 +5,6 @@
 ![](http://practice.eecs70.org/sets/set9/18.png) ans: (2)
 ![](http://practice.eecs70.org/sets/set9/23.png) ans: (2,3)
 ![](http://practice.eecs70.org/sets/set9/28.png) ans: (1,2)
+![](http://practice.eecs70.org/sets/set9/33.png) ans: (2,3)
+![](http://practice.eecs70.org/sets/set9/38.png) ans: (1,2)
+![](http://practice.eecs70.org/sets/set9/43.png) ans: (2)
