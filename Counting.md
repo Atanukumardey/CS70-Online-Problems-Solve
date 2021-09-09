@@ -1,2 +1,15 @@
 ![](http://practice.eecs70.org/sets/set8/0.png) ans: 7776
+![](http://practice.eecs70.org/sets/set8/3.png) ans: False
+![](http://practice.eecs70.org/sets/set8/7.png) ans: True
+![](http://practice.eecs70.org/sets/set8/11.png) ans: 1
+![](http://practice.eecs70.org/sets/set8/14.png) ans: 32
+![](http://practice.eecs70.org/sets/set8/17.png) ans: 0.00013
+![](http://practice.eecs70.org/sets/set8/20.png) ans: 0.00013
+![](http://practice.eecs70.org/sets/set8/23.png) ans: 0.00412
+![](http://practice.eecs70.org/sets/set8/26.png) ans: 30240
+![](http://practice.eecs70.org/sets/set8/29.png) ans: 252
+![](http://practice.eecs70.org/sets/set8/32.png) ans: 0.00397
+![](http://practice.eecs70.org/sets/set8/35.png) ans: 5040
+![](http://practice.eecs70.org/sets/set8/38.png) ans: 2520
+![](http://practice.eecs70.org/sets/set8/41.png) ans: 105
 ![](http://practice.eecs70.org/sets/set8/53.png) ans: [36](https://qr.ae/pGZdOW)
