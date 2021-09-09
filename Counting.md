@@ -20,4 +20,9 @@
 ![](http://practice.eecs70.org/sets/set8/49.png) ans: 210
 ![](http://practice.eecs70.org/sets/set8/50.png) ans: 286
 ![](http://practice.eecs70.org/sets/set8/51.png) ans: 252
+![](http://practice.eecs70.org/sets/set8/52.png) ans: 2002
 ![](http://practice.eecs70.org/sets/set8/53.png) ans: [36](https://qr.ae/pGZdOW)
+![](http://practice.eecs70.org/sets/set8/54.png) ans: ALL
+![](http://practice.eecs70.org/sets/set8/60.png) ans: b
+![](http://practice.eecs70.org/sets/set8/66.png) ans: c
+![](http://practice.eecs70.org/sets/set8/73.png) ans: a,e
