@@ -13,4 +13,17 @@
 ![](http://practice.eecs70.org/sets/set9/54.png) ans: False
 ![](http://practice.eecs70.org/sets/set9/58.png) ans: 0.0455
 ![](http://practice.eecs70.org/sets/set9/59.png) ans: [0.00024](https://math.stackexchange.com/questions/1819001/probability-of-being-dealt-four-of-a-kind-in-a-set-of-5-cards)
+![](http://practice.eecs70.org/sets/set9/60.png) ans: 0.00394
+![](http://practice.eecs70.org/sets/set9/61.png) ans: ------
+![](http://practice.eecs70.org/sets/set9/62.png) ans: 0.00198
+![](http://practice.eecs70.org/sets/set9/63.png) ans: 0.00002
+![](http://practice.eecs70.org/sets/set9/64.png) ans: 0.42257
+![](http://practice.eecs70.org/sets/set9/65.png) ans: 2/3
+![](http://practice.eecs70.org/sets/set9/66.png) ans: 8/107
+![](http://practice.eecs70.org/sets/set9/67.png) ans: 0.15
+![](http://practice.eecs70.org/sets/set9/70.png) ans: 0.08
+![](http://practice.eecs70.org/sets/set9/73.png) ans: 0.65
+![](http://practice.eecs70.org/sets/set9/76.png) ans: Less
+![](http://practice.eecs70.org/sets/set9/80.png) ans: [(3)](https://brilliant.org/discussions/thread/conditional-probability-bayes-theorem/)
+![](http://practice.eecs70.org/sets/set9/89.png) ans: (7)
 
